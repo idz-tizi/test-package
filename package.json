@@ -1,0 +1,7 @@
+{
+  "name": "com.idz.plugin.moreapps",
+  "version": "1.0.0",
+  "displayName": "IDZ Plugin MoreApps",
+  "description": "IDZ Plugin MoreApps",
+  "type": "library"
+}
